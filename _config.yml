@@ -9,12 +9,12 @@
 title: programming blog
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fqj102.github.io" # the base hostname & protocol for your site
+url: "https://fqj102.github.io/wiki" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: 
+twitter_username:
 facebook_username: gaohaoyang.water
 github_username:  fqj102
 email: fqj102@gmail.com
