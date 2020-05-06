@@ -8,8 +8,8 @@
 # Site settings
 title: programming blog
 brief-intro: Front-end Dev Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fqj102.github.io/wiki" # the base hostname & protocol for your site
+baseurl: "/wiki" # the subpath of your site, e.g. /blog
+url: "https://fqj102.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
